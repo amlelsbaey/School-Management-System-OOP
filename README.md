@@ -50,7 +50,7 @@ cd School-Management-System-OOP
 Run the program:
 
 ```bash
-python school_management.py
+python school.py
 ```
 
 ## Note
