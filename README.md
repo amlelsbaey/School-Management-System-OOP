@@ -29,7 +29,7 @@ A simple School Management System built with **Python** and **Object-Oriented Pr
 ```text
 School-Management-System-OOP/
 │
-├── school_management.py
+├── school.py
 └── README.md
 ```
 
